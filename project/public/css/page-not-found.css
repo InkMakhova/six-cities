@@ -1,0 +1,41 @@
+.page__main--page-not-found {
+  background-color: #ffffff;
+}
+
+.page__page-not-found-container {
+  margin-bottom: 30px;
+}
+
+.page-not-found__wrapper {
+  width: 420px;
+  margin-top: 16.7vh;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 94px;
+  text-align: center;
+  background-image: url(../img/ico-saved.svg);
+  background-size: 60px 73px;
+  background-position: center top;
+  background-repeat: no-repeat
+}
+
+.page-not-found__statuss {
+  display: block;
+  margin-bottom: 25px;
+  font-size: 32px;
+  line-height: 1.1875
+}
+
+.page-not-found__text {
+  margin-top: 0;
+  margin-bottom: 25px;
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 1.5
+}
+
+.page-not-found__link {
+  text-transform: uppercase;
+  color: #4481C3;
+  font-weight: 500;
+}
